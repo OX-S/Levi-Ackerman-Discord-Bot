@@ -3,3 +3,4 @@ A friend wanted a custom bot based around an anime character, Levi Ackerman from
 
 
 Make sure you run this file on Python 3.6
+This does NOT work on Python 3.7

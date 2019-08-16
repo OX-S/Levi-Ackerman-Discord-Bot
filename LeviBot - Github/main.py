@@ -1,11 +1,6 @@
 
 import discord
-from discord.ext.commands import Bot
 import random
-import json
-import aiohttp
-import asyncio
-from discord import game
 
 Token = '____________________________________________'
 Prefix = "!levi"
